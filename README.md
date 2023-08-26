@@ -44,25 +44,25 @@ Feel free to explore the code to learn more about how the interface is designed 
 
 ## Keyboard-Shortcuts
 
-- q, 2: Play C4 note
-- w, 3: Play D4 note
-- e: Play E4 note
-- r: Play F4 note
-- t: Play G4 note
-- y: Play A4 note
-- u: Play B4 note
-- c: Play C5 note
-- v: Play D5 note
-- b: Play E5 note
-- n: Play F5 note
-- m: Play G5 note
-- ,: Play A5 note
-- .: Play B5 note
-- /: Play C6 note
-- f: Play F#4 note
-- g: Play G#4 note
-- j: Play A#4 note
-- k: Play C#5 note
-- l: Play D#5 note
+- q , 2 : Play C4 note
+- w , 3 : Play D4 note
+- e : Play E4 note
+- r : Play F4 note
+- t : Play G4 note
+- y : Play A4 note
+- u : Play B4 note
+- c : Play C5 note
+- v : Play D5 note
+- b : Play E5 note
+- n : Play F5 note
+- m : Play G5 note
+- , : Play A5 note
+- . : Play B5 note
+- / : Play C6 note
+- f : Play F#4 note
+- g : Play G#4 note
+- j : Play A#4 note
+- k : Play C#5 note
+- l : Play D#5 note
 
 
