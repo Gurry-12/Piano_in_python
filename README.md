@@ -9,7 +9,6 @@ This project is a simple piano application built using PyQt5 and playsound libra
 - [Prerequisites](#Prerequisites)
 - [Usage](#Usage)
 - [Keyboard-Shortcuts](#Keyboard-Shortcuts)
-- 
 
 ## About
 
