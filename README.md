@@ -27,7 +27,7 @@ Feel free to explore the code to learn more about how the interface is designed 
 
 - [@Gurpreet Singh](https://github.com/Gurry-12)
 - [@Rajvansh Singh](https://github.com/Rajvansh0110)
-- Sujay Mann
+- [@Sujay Mann](https://github.com/SujayMann)
 
 ## Prerequisites
 
